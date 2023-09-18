@@ -42,4 +42,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@martbudr](https://www.frontendmentor.io/profile/martbudr)
-- GitHub - [@yourusername](https://www.github.com/martbudr)
+- GitHub - [@martbudr](https://www.github.com/martbudr)
