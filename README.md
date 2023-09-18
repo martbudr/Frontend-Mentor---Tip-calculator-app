@@ -24,12 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](./screenshot_desktop.png)
+![Mobile](./screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/martbudr/Frontend-Mentor---Tip-calculator-app)
+- Live Site URL: [GitHub Sites](https://martbudr.github.io/Frontend-Mentor---Tip-calculator-app/)
 
 ## My process
 
